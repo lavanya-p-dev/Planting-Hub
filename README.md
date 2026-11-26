@@ -4,7 +4,7 @@ A responsive landing page for **Planting Hub**, a fictional tree-planting commun
 
 🔗 **Live demo:** https://lavanya-p-dev.github.io/Planting-Hub/
 
-![Planting Hub screenshot](assets/home.jpeg)
+![Planting Hub screenshot](assets/home-page.jpeg)
 
 ## Features
 
